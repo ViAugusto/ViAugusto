@@ -1,6 +1,6 @@
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ViAugusto/af6b5022-3ca1-435d-8865-49a47d5e9ed3.png" /></a>
+![ViAugusto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViAugusto)
 
 <pre class="tab">
 Programador Full Stack -
