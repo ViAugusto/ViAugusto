@@ -1,12 +1,11 @@
 
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViAugusto)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ViAugusto&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ViAugusto/af6b5022-3ca1-435d-8865-49a47d5e9ed3.png" /></a>
 
 <pre class="tab">
-Cursando Instituto PROA - Web Development JAVA.
-JAVA, PYTHON, PHP, LARAVEL, SPRING BOOT, DJANGO.
-HTML5, CSS3, BOOTSTRAP4, JavaScript.
+Programador Full Stack -
+Java, Laravel, Sring, Django.
+HTML5, CSS3, Bootstrap, JavaScript.
 </pre>
 <div> 
   <a href="https://www.instagram.com/viniaugusto07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
