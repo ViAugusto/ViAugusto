@@ -3,9 +3,9 @@
 ![ViAugusto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViAugusto)
 
 <pre class="tab">
-Programador Full Stack -
-Java, Laravel, Sring, Django.
-HTML5, CSS3, Bootstrap, JavaScript.
+Analista de Sistemas Júnior
+Javascript - nodejs
+Python
 </pre>
 <div> 
   <a href="https://www.instagram.com/viniaugusto07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
