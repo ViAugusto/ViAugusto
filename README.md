@@ -1,6 +1,5 @@
 
 
-![ViAugusto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViAugusto)
 
 <pre class="tab">
 Analista de Sistemas
